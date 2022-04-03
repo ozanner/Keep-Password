@@ -1,4 +1,3 @@
 # Keep-Password
 
-This app lets you save your passwords and keep safe.
-![1024](https://user-images.githubusercontent.com/58638988/161430409-a65183d4-03b2-44e4-9eb3-c8d05f21ea57.png)
+This app lets you save your passwords and keep safe. ![play_store_512](https://user-images.githubusercontent.com/58638988/161430443-67aaf2db-2060-41b3-842c-b5d65fb91479.png)
